@@ -1,0 +1,9 @@
+Inform Customers:
+Name: Humoyun,
+Lastname: Akbaraliyev,
+Pasport: 1234567
+
+Inform for Product:
+Car: Honda Jazz : Price: $140000
+Car-color: Green Envy
+Car-delivery: Los Angeles
